@@ -784,3 +784,5 @@ BrC/BrCsaIso-do.xml
 Byz/ByzQR1y2G58.xml
 Byc/Bycq36wjwE4.xml
 Byn/BynJlhxOKbI.xml
+BzQ/BzQSN3WtoMk.xml
+Bzj/BzjpiqOtylE.xml
