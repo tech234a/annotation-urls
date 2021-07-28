@@ -1058,3 +1058,5 @@ GlV/GlV2j58rPMQ.xml
 Gli/GliTdlQAmV0.xml
 GlX/GlXxoG98urc.xml
 Gp4/Gp4pUxuTlkg.xml
+Gre/GregoryGorg.xml
+GrW/GrW1r6PArNY.xml
