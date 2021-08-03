@@ -3706,3 +3706,7 @@ peO/peOeaaArm_0.xml
 peH/peH9Cufh0R8.xml
 pdk/pdkbFOI-nK8.xml
 pcl/pclLavQBM6g.xml
+pbs/pbsgameshow.xml
+pbx/pbxr7p2tG_U.xml
+pbs/pbsdigitals.xml
+pbs/pbsideachan.xml
