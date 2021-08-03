@@ -4001,3 +4001,5 @@ tZQ/tZQw3XyIkxI.xml
 tb9/tb9XUr65tIU.xml
 tb8/tb82z0sW4bU.xml
 tbF/tbFS1S-QBqM.xml
+tal/talksportma.xml
+tal/talkSPORTMa.xml
