@@ -4005,3 +4005,5 @@ tal/talksportma.xml
 tal/talkSPORTMa.xml
 ter/tero4L7E9Ww.xml
 teD/teDXiuI9jSw.xml
+tcK/tcKvUbmOB8g.xml
+tcU/tcUEnWOI728.xml
