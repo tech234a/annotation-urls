@@ -4970,3 +4970,8 @@ BxA/BxAXzV7QMXc.xml
 BxQ/BxQFiimcIPU.xml
 BxM/BxMqKiU5zJU.xml
 BxC/BxCsTAACRVY.xml
+Bux/BuxaWBAoZ7E.xml
+BuC/BuCmicM_oIM.xml
+Buz/BuzzFeedPop.xml
+Buz/BuzzFeedYel.xml
+Buz/BuzzFeedVid.xml
