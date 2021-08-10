@@ -5043,3 +5043,5 @@ De6/De6RT-N0C90.xml
 DmT/DmTH3-dLzeg.xml
 Dm6/Dm6HnRcELL8.xml
 Dm6/Dm65rfJsqhU.xml
+Dor/Dor96YnM_qo.xml
+Dos/Dos78RpJOGo.xml
